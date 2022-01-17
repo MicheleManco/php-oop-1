@@ -69,8 +69,8 @@ $f3 -> sottotitolo = "la vendetta";
 
 $f3 -> regista = "Arnold";
 
-echo $f1->__toString() . "<br>" . 
-    $f2->__toString() . "<br>" . 
-    $f3->__toString() . "<br>";
+echo $f1 . "<br>" . 
+    $f2 . "<br>" . 
+    $f3 . "<br>";
 
 ?>
